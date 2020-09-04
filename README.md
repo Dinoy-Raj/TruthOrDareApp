@@ -1,6 +1,6 @@
-# flutter_applist
+# TRUTH OR DARE APP
 
-A new Flutter application.
+Spin The Bottle Game With Flutter.
 
 ## Getting Started
 
