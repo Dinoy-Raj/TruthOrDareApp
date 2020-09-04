@@ -3,7 +3,7 @@
 Spin The Bottle Game With Flutter.
 
 
-## HOME PAGE
+# HOME PAGE
 
 <img src="https://github.com/Dinoy-Raj/TruthOrDareApp/blob/master/assets/Screenshot_20200904_173532_com.example.flutter_applist.jpg">
 
