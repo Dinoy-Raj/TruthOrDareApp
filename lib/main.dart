@@ -74,7 +74,8 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
           Container(
 
             height: MediaQuery.of(context).size.height,
-            child: Image.asset("assets/floor.jpg",
+            child: Image.asset("assets/floor.jpg"
+              ,
             fit: BoxFit.fill,),
           ),
           Center(
