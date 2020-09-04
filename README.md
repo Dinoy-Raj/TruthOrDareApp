@@ -2,6 +2,11 @@
 
 Spin The Bottle Game With Flutter.
 
+
+## HOME PAGE
+
+<img src="">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
